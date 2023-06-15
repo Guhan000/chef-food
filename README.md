@@ -1,6 +1,6 @@
 # Chef Food - Modern Food Application
 
-# [Live Demo](https://chef-food.netlify.app)
+# [Live Demo](https://cheff-food.netlify.app)
 
 
 Tech Stack : ReactJs, CSS.
